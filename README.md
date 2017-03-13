@@ -14,6 +14,7 @@ Product.csv is preprocessed using the following methods:
 	Distance matrix is calculated.
 
 ##1.	HIERARCHIAL-AGNES:
+![alt text] [DENDOGRAM]
 [Dendrogram]:https://github.com/Vaishnavi28/DataSegmentation_FoodProducts/blob/master/AGNES.png "DENDOGRAM"
 
 	Cereals, oats are grouped into one category, while chocolate products are grouped together overall.
@@ -79,9 +80,10 @@ The following product types are framed into same grids or closely adjacent
 
 	Coco Puffs+savories+Cheerios
 
-
+![alt text] [KOHONEN SOM]
 [Kohonen SOM Mapping Plot]: https://github.com/Vaishnavi28/DataSegmentation_FoodProducts/blob/master/Kohonen%20SOM.png "Kohonen SOM Mapping Plot"
 
+![alt text] [KOHONEN SOM CODE]
 [Kohonen SOM Code Mapping Plot]: https://github.com/Vaishnavi28/DataSegmentation_FoodProducts/blob/master/KohonenSOMCodes.png "Kohonen SOM Code Mapping Plot"
 
 ###4.	HEAT MAP
@@ -98,16 +100,22 @@ The following method are adopted during heat map generation:
 
 	Heat Map for Second Cluster
 
+![alt text] [Cluster Rows]
 [Cluster Rows]: https://github.com/Vaishnavi28/DataSegmentation_FoodProducts/blob/master/ClusterRows.png "Cluster Rows"
 
+![alt text] [Cluster Columns]
 [Cluster Columns]:https://github.com/Vaishnavi28/DataSegmentation_FoodProducts/blob/master/ClusterColumn.png "Cluster Columns"
 
+![alt text] [HEAT MAO]
 [HEAT MAP ]:https://github.com/Vaishnavi28/DataSegmentation_FoodProducts/blob/master/HeatmapProductsByHeatMaply.png "HEAT MAP"
 
+![alt text] [HEAT MAP]
 [HEAT MAP]: https://github.com/Vaishnavi28/DataSegmentation_FoodProducts/blob/master/HeatMapProductsByHeatmapLib.jpg "HEAT MAP2"
 
+![alt text] [HEAT MAP FOR FIRST CLUSTER]
 [HEAT MAP FOR FIRST CLUSTER]:https://github.com/Vaishnavi28/DataSegmentation_FoodProducts/blob/master/HeatMapFirstCluster.png "HEAT MAP FOR FIRST CLUSTER"
 
+![alt text] [HEAT MAP FOR SECOND CLUSTER]
 [HEAT MAP FOR SECOND CLUSTER]https://github.com/Vaishnavi28/DataSegmentation_FoodProducts/blob/master/HeatMapSecondCluster.png "HEAT MAP FOR SECOND CLUSTER"
 
 
