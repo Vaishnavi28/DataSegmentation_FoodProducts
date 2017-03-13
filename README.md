@@ -14,7 +14,7 @@ Product.csv is preprocessed using the following methods:
 	Distance matrix is calculated.
 
 ##1.	HIERARCHIAL-AGNES:
-[Dendrogram]:https://github.com/Vaishnavi28/DataSegmentation_FoodProducts/blob/master/AGNES.png
+[Dendrogram]:https://github.com/Vaishnavi28/DataSegmentation_FoodProducts/blob/master/AGNES.png "DENDOGRAM"
 
 	Cereals, oats are grouped into one category, while chocolate products are grouped together overall.
 
@@ -60,8 +60,8 @@ bestK3$Best.nc
 Number_clusters     Value_Index 
          3.0000          0.3371
 
-
-[Optimal Number of clusters that can be used is “Three”]: https://github.com/Vaishnavi28/DataSegmentation_FoodProducts/blob/master/NoOfClusters.png
+![alt text][Optimal Number of clusters that can be used is “Three”]
+[Optimal Number of clusters that can be used is “Three”]: https://github.com/Vaishnavi28/DataSegmentation_FoodProducts/blob/master/NoOfClusters.png "OPTIMAL NUMBER OF CLUSTERS"
 
 ###3.	Kohonen SOM:
 
@@ -80,9 +80,9 @@ The following product types are framed into same grids or closely adjacent
 	Coco Puffs+savories+Cheerios
 
 
-[Kohonen SOM Mapping Plot]: https://github.com/Vaishnavi28/DataSegmentation_FoodProducts/blob/master/Kohonen%20SOM.png
+[Kohonen SOM Mapping Plot]: https://github.com/Vaishnavi28/DataSegmentation_FoodProducts/blob/master/Kohonen%20SOM.png "Kohonen SOM Mapping Plot"
 
-[Kohonen SOM Code Mapping Plot]: https://github.com/Vaishnavi28/DataSegmentation_FoodProducts/blob/master/KohonenSOMCodes.png
+[Kohonen SOM Code Mapping Plot]: https://github.com/Vaishnavi28/DataSegmentation_FoodProducts/blob/master/KohonenSOMCodes.png "Kohonen SOM Code Mapping Plot"
 
 ###4.	HEAT MAP
 
@@ -98,17 +98,17 @@ The following method are adopted during heat map generation:
 
 	Heat Map for Second Cluster
 
-[Cluster Rows]: https://github.com/Vaishnavi28/DataSegmentation_FoodProducts/blob/master/ClusterRows.png
+[Cluster Rows]: https://github.com/Vaishnavi28/DataSegmentation_FoodProducts/blob/master/ClusterRows.png "Cluster Rows"
 
-[Cluster Columns]:https://github.com/Vaishnavi28/DataSegmentation_FoodProducts/blob/master/ClusterColumn.png
+[Cluster Columns]:https://github.com/Vaishnavi28/DataSegmentation_FoodProducts/blob/master/ClusterColumn.png "Cluster Columns"
 
-[HEAT MAP ]:https://github.com/Vaishnavi28/DataSegmentation_FoodProducts/blob/master/HeatmapProductsByHeatMaply.png
+[HEAT MAP ]:https://github.com/Vaishnavi28/DataSegmentation_FoodProducts/blob/master/HeatmapProductsByHeatMaply.png "HEAT MAP"
 
-https://github.com/Vaishnavi28/DataSegmentation_FoodProducts/blob/master/HeatMapProductsByHeatmapLib.jpg
+[HEAT MAP]: https://github.com/Vaishnavi28/DataSegmentation_FoodProducts/blob/master/HeatMapProductsByHeatmapLib.jpg "HEAT MAP2"
 
-[HEAT MAP FOR CLUSTER]:https://github.com/Vaishnavi28/DataSegmentation_FoodProducts/blob/master/HeatMapFirstCluster.png
+[HEAT MAP FOR FIRST CLUSTER]:https://github.com/Vaishnavi28/DataSegmentation_FoodProducts/blob/master/HeatMapFirstCluster.png "HEAT MAP FOR FIRST CLUSTER"
 
-[HEAT MAP FOR SECOND CLUSTER]https://github.com/Vaishnavi28/DataSegmentation_FoodProducts/blob/master/HeatMapSecondCluster.png
+[HEAT MAP FOR SECOND CLUSTER]https://github.com/Vaishnavi28/DataSegmentation_FoodProducts/blob/master/HeatMapSecondCluster.png "HEAT MAP FOR SECOND CLUSTER"
 
 
 
