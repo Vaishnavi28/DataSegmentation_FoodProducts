@@ -87,7 +87,7 @@ The following product types are framed into same grids or closely adjacent
 	Coco Puffs+savories+Cheerios
 
 ###  Kohonen SOM Mapping Plot:
-![alt tag] (https://github.com/Vaishnavi28/DataSegmentation_FoodProducts/blob/master/Kohonen%20SOM.png)
+![alt tag](https://github.com/Vaishnavi28/DataSegmentation_FoodProducts/blob/master/Kohonen%20SOM.png)
 
 ### KOHONEN SOM CODE Mapping plot:
 ![alt tag](https://github.com/Vaishnavi28/DataSegmentation_FoodProducts/blob/master/KohonenSOMCodes.png)
